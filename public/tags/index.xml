@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Index - Investigación Médica</title>
-    <link>https://index-investigacion-medica.netlify.app/tags/</link>
-    <description>Recent content in Tags on Index - Investigación Médica</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    
-	<atom:link href="https://index-investigacion-medica.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Index - Investigación Médica</title><link>https://index-investigacion-medica.netlify.app/tags/</link><description>Recent content in Tags on Index - Investigación Médica</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Wed, 09 Oct 2019 12:13:32 +0200</lastBuildDate><atom:link href="https://index-investigacion-medica.netlify.app/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>css</title><link>https://index-investigacion-medica.netlify.app/tags/css/</link><pubDate>Wed, 09 Oct 2019 12:13:32 +0200</pubDate><guid>https://index-investigacion-medica.netlify.app/tags/css/</guid><description/></item><item><title>dark mode</title><link>https://index-investigacion-medica.netlify.app/tags/dark-mode/</link><pubDate>Wed, 09 Oct 2019 12:13:32 +0200</pubDate><guid>https://index-investigacion-medica.netlify.app/tags/dark-mode/</guid><description/></item><item><title>frontend</title><link>https://index-investigacion-medica.netlify.app/tags/frontend/</link><pubDate>Wed, 09 Oct 2019 12:13:32 +0200</pubDate><guid>https://index-investigacion-medica.netlify.app/tags/frontend/</guid><description/></item></channel></rss>
