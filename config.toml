@@ -1,0 +1,4 @@
+baseURL = "https://index-investigacion-medica.netlify.app/"
+languageCode = "es"
+title = "Index - Investigación Médica"
+theme = "hugonews"
